@@ -1,0 +1,27 @@
+{
+  "name": "proyecto-de-node",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript con Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikaelaWilliman/Proyecto-de-Node.git"
+  },
+  "keywords": [
+    "hola",
+    "mundo",
+    "first",
+    "proyect"
+  ],
+  "author": "Mikaela Williman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikaelaWilliman/Proyecto-de-Node/issues"
+  },
+  "homepage": "https://github.com/MikaelaWilliman/Proyecto-de-Node#readme"
+}
